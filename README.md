@@ -66,7 +66,6 @@ I'm currently looking for opportunities where I can contribute as a **Java Full 
 
 ### 🧰 Tools & Technologies
 
-* Linux
 * Postman
 * Figma
 
