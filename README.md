@@ -124,21 +124,6 @@ A web application designed to help manage student attendance, academic performan
 
 ---
 
-## 🎫 Chatbot-Based Ticketing System
-
-A chatbot-driven support ticketing system developed as part of a **Smart India Hackathon project**.
-
-### Features
-
-* Chatbot interaction
-* Ticket creation
-* Support workflow
-* User assistance
-
-**Tech:** `Python` `Flask` `MySQL` `NLP`
-
----
-
 # ☁️ DevOps Journey
 
 I enjoy understanding how applications move from **development to production**.
